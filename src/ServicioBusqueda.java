@@ -1,3 +1,12 @@
+/*
+    Universidad de las Americas (UDLA) - Campus Park
+    Carrera: Ingenieria en Ciberseguridad
+    Materia: Programacion III
+    Estudiantes: Juan Daniel Acosta, Daniel Argoti, Ignacio Eguez y Bernardo Utreras.
+    Proyecto: Taller Semana 6 Implementacion de Metodos de Busqueda
+
+*/
+
 public class ServicioBusqueda implements IBusquedaProductos {
     // Implementacion de la Busqueda Interpolada (requiere arreglo ordenado)
     @Override
